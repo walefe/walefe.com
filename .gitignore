@@ -41,6 +41,7 @@ typings/
 
 # Optional npm cache directory
 .npm
+.next
 
 # Optional eslint cache
 .eslintcache
@@ -53,10 +54,6 @@ typings/
 
 # dotenv environment variable files
 .env*
-
-# gatsby files
-.cache/
-public
 
 # Mac files
 .DS_Store
