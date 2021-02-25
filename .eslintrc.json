@@ -33,6 +33,9 @@
       "@typescript-eslint/no-use-before-define": ["error"],
       "react/react-in-jsx-scope": "off",
       "react/jsx-props-no-spreading": "off",
+      "@typescript-eslint/explicit-module-boundary-types": "off",
+      "arrow-parens": "off",
+      "implicit-arrow-linebreak": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
